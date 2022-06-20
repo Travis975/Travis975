@@ -1,5 +1,5 @@
 - Hi, I’m @Travis975
-- I’m interested in Computer Science. teaching myself through Odin Project and Coursera. 
+- I’m interested in Computer Science.
 - I’m currently learning Nand2Tetris, Python, and Ruby on Rails.
 - I'm teaching myself through Odin Project and Coursera. 
 
